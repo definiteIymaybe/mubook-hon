@@ -33,13 +33,13 @@
     "exponential-backoff-generator": "^2.0.1",
     "husky": "^8.0.3",
     "msw": "^2.0.5",
-    "next": "^13.4.12",
-    "pdfjs-dist": "3.1.81",
+    "next": "^13.5.6",
+    "pdfjs-dist": "4.2.67",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hotkeys-hook": "^4.4.1",
     "react-icons": "^4.9.0",
-    "react-pdf": "^6.2.2",
+    "react-pdf": "^7.7.3",
     "swr": "^2.2.0"
   },
   "devDependencies": {
